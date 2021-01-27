@@ -1,2 +1,4 @@
+dev-python/sphinx-issues 1.2.0 9999: A Sphinx extension for linking to your project's issue tracker.
 net-libs/ignition-msgs 0.7.0: Protobuf messages and functions for robot applications
 net-libs/ignition-transport 3.1.0-r1: Combines ZeroMQ with Protobufs to create a fast and efficient message passing system
+sys-apps/autosuspend 3.0 9999: A daemon to suspend and wake up a system based on configurable checks
