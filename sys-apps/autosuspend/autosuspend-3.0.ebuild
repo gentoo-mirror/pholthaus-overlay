@@ -36,7 +36,7 @@ RDEPEND="
 "
 DEPEND="
 	dev-python/setuptools[${PYTHON_USEDEP}]
-	dev-python/pytest-runner[${PYTHON_USEDEP}]
+	dev-python/pytest[${PYTHON_USEDEP}]
 	doc? ( dev-python/sphinx[${PYTHON_USEDEP}] dev-python/sphinx_rtd_theme[${PYTHON_USEDEP}] dev-python/sphinx-issues[${PYTHON_USEDEP}] )
 	${PYTHON_DEPS}
 "
